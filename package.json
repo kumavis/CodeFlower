@@ -1,0 +1,22 @@
+{
+  "name": "flowerpower",
+  "version": "0.0.0",
+  "description": "organic visualizer for arbitrary objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "open http://localhost:9966 && beefy index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kumavis/CodeFlower"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/kumavis/CodeFlower/issues"
+  },
+  "dependencies": {
+    "d3": "~3.2.8"
+  }
+}
