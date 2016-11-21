@@ -17,6 +17,6 @@
     "url": "https://github.com/kumavis/CodeFlower/issues"
   },
   "dependencies": {
-    "d3": "~3.2.8"
+    "d3": "~4.3.0"
   }
 }
